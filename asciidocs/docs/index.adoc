@@ -4,3 +4,6 @@ ifndef::imagesdir[:imagesdir: images]
 Hurensohn
 
 image::img.png[]
+== Slides
+Further information can be found under the
+https://2425-4chif-syp.github.io/01-projekte-2025-4chif-syp-cura/slides/project-presentation.html[*RevealJS slides*] of the project.
